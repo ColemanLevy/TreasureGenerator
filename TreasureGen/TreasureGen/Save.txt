@@ -1,0 +1,25 @@
+Leather Helmet .
+0
+5
+0
+Iron Chestplate .
+0
+40
+0
+Bronze Gloves of Fire .
+0
+50
+1
+Iron Boots .
+0
+25
+0
+Rune of Wind .
+0
+0
+4
+Wooden Sword .
+10
+0
+0
+0

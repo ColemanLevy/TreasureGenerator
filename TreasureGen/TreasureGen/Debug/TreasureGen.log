@@ -1,0 +1,21 @@
+﻿  Vector2D.cpp
+  Treasure.cpp
+  Texture.cpp
+  Main.cpp
+  Game.cpp
+c:\users\okami\desktop\fieaportfolio\treasuregen\treasuregen\headers\hero.h(124): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+c:\users\okami\desktop\fieaportfolio\treasuregen\treasuregen\headers\hero.h(141): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+c:\users\okami\desktop\fieaportfolio\treasuregen\treasuregen\headers\hero.h(153): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\okami\desktop\fieaportfolio\treasuregen\treasuregen\headers\hero.h(165): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\okami\desktop\fieaportfolio\treasuregen\treasuregen\game.cpp(290): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\okami\desktop\fieaportfolio\treasuregen\treasuregen\game.cpp(292): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\okami\desktop\fieaportfolio\treasuregen\treasuregen\game.cpp(1243): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\okami\desktop\fieaportfolio\treasuregen\treasuregen\headers\management.h(97): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  c:\users\okami\desktop\fieaportfolio\treasuregen\treasuregen\game.cpp(160): note: see reference to function template instantiation 'T &Entity::addComponent<TransformComponent,int&,int&>(int &,int &)' being compiled
+          with
+          [
+              T=TransformComponent
+          ]
+  Generating Code...
+  TreasureGen.vcxproj -> C:\Users\okami\Desktop\FIEAPortfolio\TreasureGen\Debug\TreasureGen.exe
+  TreasureGen.vcxproj -> C:\Users\okami\Desktop\FIEAPortfolio\TreasureGen\Debug\TreasureGen.pdb (Partial PDB)
