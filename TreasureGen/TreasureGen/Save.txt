@@ -2,22 +2,22 @@ Leather Helmet .
 0
 5
 0
-Iron Chestplate .
+Leather Chestplate .
 0
-40
+10
 0
-Bronze Gloves of Fire .
+Leather Gloves .
 0
-50
-1
-Iron Boots .
+5
 0
-25
+Leather Boots .
 0
-Rune of Wind .
+5
+0
+None .
 0
 0
-4
+0
 Wooden Sword .
 10
 0
